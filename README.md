@@ -2,7 +2,7 @@
 
 This repository implements a production-grade **Retrieval-Augmented Generation (RAG)** system designed for querying unstructured datasets (PDFs) with high accuracy.
 
-It demonstrates advanced techniques discussed in senior system design interviews, including **Hybrid Search**, **Metadata Filtering**, and **Context-Aware Retrieval**.
+It demonstrates advanced techniques including **Hybrid Search**, **Metadata Filtering**, and **Context-Aware Retrieval**.
 
 ## 🏗 Architecture
 
