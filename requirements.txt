@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-openai
+openai
+faiss-cpu
+tiktoken
+pypdf
+rank_bm25
+streamlit
+python-dotenv
